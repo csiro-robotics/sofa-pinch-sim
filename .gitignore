@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# SOFA runtime artifacts
+/*.log
+*.ini
+*.qglviewer.view
